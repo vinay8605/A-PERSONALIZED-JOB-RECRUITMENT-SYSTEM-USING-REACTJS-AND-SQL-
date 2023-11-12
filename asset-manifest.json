@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/css/main.66628d04.css",
+    "main.js": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/js/main.fcddfad9.js",
+    "static/js/787.7bbf3973.chunk.js": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/js/787.7bbf3973.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/Resume2.pdf": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/Resume2.3a2e1f19b5725890bd9c.pdf",
+    "static/media/bootstrap-icons.woff2?": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/1.jpg": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/1.58f03d24ffa98055ee25.jpg",
+    "static/media/slick.svg": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/index.html",
+    "main.66628d04.css.map": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/css/main.66628d04.css.map",
+    "main.fcddfad9.js.map": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/js/main.fcddfad9.js.map",
+    "787.7bbf3973.chunk.js.map": "/A-PERSONALIZED-JOB-RECRUITMENT-SYSTEM-USING-REACTJS-AND-SQL-/static/js/787.7bbf3973.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66628d04.css",
+    "static/js/main.fcddfad9.js"
+  ]
+}
