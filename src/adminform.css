@@ -1,0 +1,100 @@
+.user-form-container {
+  max-width: 600px;
+  margin: 18px auto;
+  padding: 20px;
+  border: 1px solid #000;
+  border-radius: 25px;
+  background-color: #000;
+  box-shadow: 5px 7px 8px 8px #0ef;
+}
+
+.user-form-container h2 {
+  color: #0ef;
+  text-align: center;
+}
+
+.user-form {
+  color: #0ef;
+  background-color: #000;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: larger;
+}
+
+.custom-input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #0ef;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  outline: none;
+  text-align: center;
+}
+.inbuilt[type="text"],
+.inbuilt[type="email"]{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #0ef;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  outline: none;
+  text-align: center;
+}
+
+.dropdown-container {
+  position: relative;
+}
+.dropdown-container select {
+  margin-top: 15px;
+  width: 50%;
+  padding: 10px;
+  border: 1px solid #0ef;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
+.cusin[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #0ef;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  outline: none;
+  text-align: center;
+}
+
+.dropdown-container::after {
+  content: "\25BC";
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.sbtn {
+  background-color: #0ef;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.sbtn:hover {
+  box-shadow: 0 0 40px #0ef;
+  transition: 1s;
+}

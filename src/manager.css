@@ -1,0 +1,61 @@
+.managerdiv {
+  height: auto;
+  border: solid;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 20px;
+  overflow: hidden;
+  background-color: black;
+  box-shadow: 5px 7px 8px 8px #0ef;
+  border-radius: 15px;
+}
+.managerhead{
+  background-color: #EEDD82;
+}
+
+.mtd {
+  padding: 15px;
+}
+
+.mtable {
+  background-color: black;
+  color: white;
+}
+.mtable th {
+  padding: 0 25px;
+}
+.medit {
+  height: 30px;
+  width: 100px;
+  margin-left: 120px;
+  margin-bottom: 10px;
+  background-color: #0ef;
+  font-weight: bold;
+  border: none;
+  border-radius: 35px;
+  color: black;
+}
+.medit:hover {
+  box-shadow: 0 0 30px #0ef;
+  transition: 0.3s;
+}
+.medit5{
+  text-decoration: none;
+  color: #000;
+}
+
+.mdelete {
+  height: 30px;
+  width: 100px;
+  margin-left: 140px;
+  margin-bottom: 10px;
+  background-color: red;
+  font-weight: bold;
+  border: none;
+  border-radius: 35px;
+  color: white;
+}
+.mdelete:hover {
+  box-shadow: 0 0 50px red;
+  transition: 0.3s;
+}

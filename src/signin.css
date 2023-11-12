@@ -1,0 +1,102 @@
+/* signin.css */
+
+.container2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  height: auto;
+  background-color: rgb(0, 0, 0);
+  border: 3px solid;
+  border-radius: 35px;
+  box-shadow: 5px 7px 8px 8px #0ef;
+  width: 500px;
+  text-align: center;
+  padding: 20px;
+}
+
+.container2 img {
+  margin-top: -20px;
+}
+
+.container2 h1 {
+  color: #0ef;
+  font-size: 40px;
+}
+
+i {
+  color: #0ef;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.sin1::placeholder {
+  color: black;
+}
+
+.sin1 {
+  border: 2px solid white;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 18px;
+  width: 80%;
+  margin-top: 10px;
+}
+
+.sign1 {
+  color: white;
+  margin-top: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.signin-link1 {
+  color: white;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.signin-link1:hover {
+  color: #0ef;
+}
+
+#admin {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 80px;
+}
+
+#admin:hover {
+  color: #0ef;
+}
+
+#admin1 {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 80px;
+}
+
+#admin1:hover {
+  color: #0ef;
+}
+
+#rbtn1 {
+  width: 60%;
+  border-radius: 45px;
+  margin-top: 20px;
+  display: block;
+  border: 1px solid;
+  border-radius: 25px;
+  background-color: #0ef;
+  box-shadow: 0 0 5px #0ef;
+  transition: box-shadow 0.3s ease;
+  padding: 10px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#rbtn1:hover {
+  box-shadow: 0 0 30px #0ef;
+  transition: 1s;
+}

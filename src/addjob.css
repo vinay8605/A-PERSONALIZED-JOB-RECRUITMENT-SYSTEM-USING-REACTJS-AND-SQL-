@@ -1,0 +1,59 @@
+#addjobdiv{
+    margin: 50px 160px;
+    border: none;
+    width: 670px;
+    height: 750px;
+    box-shadow: 5px 7px 8px 8px #0ef;
+    background-color: black;
+    border-radius: 15px;
+}
+.joblabel{
+    margin-left: 50px;
+    font-weight: bold;
+    color: #0ef;
+}
+.joninput{
+    margin-left: 100px;
+    border-radius: 10px;
+    border: none;
+    height: 60px;
+    width: 400px; 
+    font-weight: bold;
+}
+.postjob{
+
+margin-left: 230px;
+background-color: #0ef;
+height: 40px;
+width: 200px;
+border: none;
+font-weight: bold;
+border-radius: 55px;
+color: black;
+transition: 1s
+}
+.postjob:hover{
+    box-shadow: 0 0 30px #0ef;
+    transition: box-shadow 0.3s ease;
+    
+}
+
+#postimg{
+    height: 400px;
+    width: 600px;
+    margin-top: -900px;
+    margin-left: 900px;
+    
+}
+#jobsele{
+    margin-left: 50px;
+    height: 30px;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    
+}
+.jobopt{
+   font-weight: bold;
+
+}

@@ -1,0 +1,89 @@
+#container1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  height: 550px;
+  background-color: rgb(0, 0, 0);
+  border: 3px solid;
+  border-radius: 35px;
+  box-shadow: 5px 7px 8px 8px #0ef;
+  width: 650px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+#container1 img{
+  margin-top: -40px;
+}
+
+#container1 h3{
+  margin-top: -10px;
+  text-align: center;
+  color: #0ef;
+  font-size: 40px;
+}
+i {
+  color: #0ef;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.sin::placeholder {
+  color: black;
+}
+.sin {
+  border: 2px solid white;
+  border-radius: 25px;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 18px;
+}
+#mailicon {
+  margin-left: 50px;
+}
+#personicon {
+  margin-left: 10px;
+}
+#div2 {
+  margin-top: 10px;
+}
+select[name="organization"] {
+  width: 38.5%;
+}
+
+.signn{
+  color: white;
+  margin-top: 20px;
+  text-decoration: none;
+}
+.signin-link{
+  color: white;
+  font-weight:bolder;
+  text-decoration: none;
+}
+.signin-link:hover {
+  color: #0ef;
+}
+#rbtn {
+  width: 70%;
+  border-radius: 45px;
+  margin-top: 20px;
+  display: block;
+  border: 1px solid;
+  border-radius: 25px;
+  background-color: #0ef;
+  box-shadow: 0 0 5px #0ef;
+  transition: box-shadow 0.3s ease;
+  padding: 10px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+#rbtn:hover {
+    box-shadow: 0 0 30px #0ef;
+    transition: 1s;
+  
+}
+.sin{
+  width: 200px;
+}

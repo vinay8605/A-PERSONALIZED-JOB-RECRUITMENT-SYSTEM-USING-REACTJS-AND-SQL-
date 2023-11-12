@@ -1,0 +1,81 @@
+#jar{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    height:500px;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid;
+    border-radius: 35px;
+    box-shadow: 5px 7px 8px 8px #0ef;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  #jar img{
+    margin-top: -10px;
+  }
+  #jar h4{
+    margin-top: 1px;
+    text-align: center;
+    color: #0ef;
+    font-size: 40px;
+  }
+  
+  .inputc {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .inputc i {
+    color: #0ef;
+    font-size: 30px;
+    margin-right: 10px;
+  }
+  
+  .hello::placeholder {
+    color: black;
+  }
+  .hello {
+    border: 2px solid white;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 18px;
+    width: 100%;
+  }
+  
+  #registerb{
+    width: 70%;
+    border-radius: 45px;
+    margin-top: 20px;
+    margin-left: 35px;
+    display: block;
+    border: 1px solid;
+    border-radius: 25px;
+    background-color: #0ef;
+    box-shadow: 0 0 5px #0ef;
+    transition: box-shadow 0.3s ease;
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  #registerb:hover{
+    box-shadow: 0 0 30px #0ef;
+      transition: 1s;
+  }
+  .asl{
+    margin-top: 20px;
+  }
+  .asl1{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .asl1:hover{
+    color: #0ef;
+  }
+  
+  

@@ -1,0 +1,90 @@
+#clientdiv {
+   height: auto;
+   border: solid;
+   display: inline-block;
+   margin-left: 50px;
+   margin-top: 20px;
+   overflow: hidden;
+   background-color: black;
+   box-shadow: 5px 7px 8px 8px #0ef;
+   border-radius: 15px;
+ }
+ 
+ #addjob {
+   height: 40px;
+   width: 200px;
+   margin-left: 1200px;
+   margin-top: 25px;
+   font-weight:bolder;
+   font-size: large;
+   background-color: #0ef;
+   border: none;
+   border-radius: 55px;
+ }
+ #addjob:hover{
+  box-shadow: 0 0 50px #0ef;
+    transition: box-shadow 0.3s ease;
+ }
+ 
+ .ctd {
+   padding: 15px;
+   color: rgb(249, 227, 130);
+ }
+ 
+ .ctable {
+   background-color: black;
+   color: white;
+ }
+ .ctable th{
+   padding: 0 25px; 
+ }
+ .downloadresume{
+  height: 30px;
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #0ef;
+  font-weight: bold;
+  border: none;
+  border-radius: 35px;
+  color: black;
+ }
+.downloadresume:hover{
+  box-shadow: 0 0 30px #0ef;
+  transition: 0.3s;
+}
+.downloadresume1{
+  text-decoration: none;
+  color: #000;
+}
+#cedit {
+  height: 30px;
+  width: 100px;
+  margin-left: 50px; 
+  margin-bottom: 10px;
+  background-color: #0ef;
+  font-weight: bold;
+  border: none;
+  border-radius: 35px;
+  color: #000;
+}
+#cedit:hover{
+  box-shadow: 0 0 50px #0ef;
+  transition: 0.3s;
+}
+ 
+ #cdelete {
+   height: 30px;
+   width: 100px;
+   margin-left: 170px; 
+   margin-bottom: 10px;
+   background-color: red;
+   font-weight: bold;
+   border: none;
+   border-radius: 35px;
+   color: white;
+ }
+ #cdelete:hover{
+   box-shadow: 0 0 50px red;
+   transition: 0.3s;
+ }

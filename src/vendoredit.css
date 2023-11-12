@@ -1,0 +1,64 @@
+/* vendoredit.css */
+
+#ve {
+  margin: 20px auto;
+  padding: 20px;
+  width: 60%;
+  background-color: black;
+  border: 1px solid #0ef;
+  border-radius: 5px;
+  box-shadow: 5px 7px 8px 8px #0ef;
+}
+.head{
+    color: #0ef;
+}
+#ve h2 {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+#labeldiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.velabel {
+  margin-bottom: 10px;
+  color: #0ef;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.veinput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+#drop {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.vebtn {
+  background-color: #0ef;
+  color: #000;
+  margin-left: 350px;
+
+  font-size: larger;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.vebtn:hover {
+  box-shadow: 0 0 30px #0ef;
+  transition: 0.3s;
+}
